@@ -8,10 +8,10 @@ Projeto de Sistema de Compras com Interface Gráfica
 Este é um sistema de compras simples desenvolvido em Java com uma interface gráfica usando Swing. O sistema inclui funcionalidades básicas como login, visualização de produtos, carrinho de compras e pagamento.
 
 Funcionalidades:
-- *Tela de Login: Permite ao usuário fazer login no sistema.
-- *Tela Principal: Vitrine de produtos onde o usuário pode adicionar produtos ao carrinho.
-- *Tela de Carrinho de Compras: Visualização dos itens no carrinho com a opção de ir para a tela de pagamento ou voltar para a vitrine.
-- *Tela de Pagamento: Permite ao usuário inserir os dados do cartão e finalizar a compra.
+- Tela de Login: Permite ao usuário fazer login no sistema.
+- Tela Principal: Vitrine de produtos onde o usuário pode adicionar produtos ao carrinho.
+- Tela de Carrinho de Compras: Visualização dos itens no carrinho com a opção de ir para a tela de pagamento ou voltar para a vitrine.
+- Tela de Pagamento: Permite ao usuário inserir os dados do cartão e finalizar a compra.
 
 Estrutura do Projeto:
 Main.java
