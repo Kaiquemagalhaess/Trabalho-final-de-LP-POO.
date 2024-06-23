@@ -38,3 +38,5 @@ Compile e execute o projeto.
 Navegue até a classe Main.java.
 Execute a classe Main para iniciar a aplicação.
 
+Utilize o nome de usuário 'joaomax' e a senha '1234' para ter acesso aos produtos.
+
