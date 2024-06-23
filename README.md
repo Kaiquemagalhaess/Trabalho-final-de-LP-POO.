@@ -1,8 +1,10 @@
 
-![1Login](https://github.com/Kaiquemagalhaess/Trabalho-final-de-LP-POO./assets/144180211/8af243f1-fc9b-4aeb-8b2c-fca49928fd51)
-![2Produtos](https://github.com/Kaiquemagalhaess/Trabalho-final-de-LP-POO./assets/144180211/86bff465-3d31-4a63-aedc-277d3868bdd0)
-![3Carrinho](https://github.com/Kaiquemagalhaess/Trabalho-final-de-LP-POO./assets/144180211/8d443ac7-6d4b-4a4b-8945-dacd6055ac71)
-![4Pagamento](https://github.com/Kaiquemagalhaess/Trabalho-final-de-LP-POO./assets/144180211/67e92453-0ed1-4e9e-8656-43f09e44fd2c)
+![1Tela](https://github.com/Kaiquemagalhaess/Trabalho-final-de-LP-POO./assets/144180211/561e42a1-92fa-4afb-b87f-d9733c3c42ed)
+![2Tela](https://github.com/Kaiquemagalhaess/Trabalho-final-de-LP-POO./assets/144180211/205d16c0-8b4f-4991-96d8-d7f0ebf8a985)
+![3Tela](https://github.com/Kaiquemagalhaess/Trabalho-final-de-LP-POO./assets/144180211/84cdf2cd-1d97-4656-b562-a9d4d428473a)
+![4Tela](https://github.com/Kaiquemagalhaess/Trabalho-final-de-LP-POO./assets/144180211/282c89bc-38bb-4815-9681-41ba1730d781)
+![5Tela](https://github.com/Kaiquemagalhaess/Trabalho-final-de-LP-POO./assets/144180211/429476d1-42db-47bd-a81d-3ccffbbc3f20)
+![6Tela](https://github.com/Kaiquemagalhaess/Trabalho-final-de-LP-POO./assets/144180211/2e13b170-38a0-4013-954b-5f91c7d873a8)
 
 Projeto de Sistema de Compras com Interface Gráfica
 
